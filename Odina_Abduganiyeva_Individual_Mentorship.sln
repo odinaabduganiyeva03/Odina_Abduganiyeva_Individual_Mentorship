@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odina_Abduganiyeva_Individual_Mentorship", "Odina_Abduganiyeva_Individual_Mentorship\Odina_Abduganiyeva_Individual_Mentorship.csproj", "{3294EAB7-909F-4E5D-B473-86B91C9D7A24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odina_Abduganiyeva_Individual_Mentorship.BL", "Odina_Abduganiyeva_Individual_Mentorship.BL\Odina_Abduganiyeva_Individual_Mentorship.BL.csproj", "{A8F983C4-DBB7-4E86-83AF-43DCFE1340E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3294EAB7-909F-4E5D-B473-86B91C9D7A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3294EAB7-909F-4E5D-B473-86B91C9D7A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3294EAB7-909F-4E5D-B473-86B91C9D7A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3294EAB7-909F-4E5D-B473-86B91C9D7A24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8F983C4-DBB7-4E86-83AF-43DCFE1340E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F983C4-DBB7-4E86-83AF-43DCFE1340E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F983C4-DBB7-4E86-83AF-43DCFE1340E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F983C4-DBB7-4E86-83AF-43DCFE1340E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BD771E2-7A90-49CD-91A1-C0766A8B2833}
+	EndGlobalSection
+EndGlobal
